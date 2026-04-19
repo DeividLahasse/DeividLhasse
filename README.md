@@ -39,8 +39,8 @@ Um ecossistema completo de e-commerce para hamburgueria.
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividSantosLahasse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividSantosLahasse&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividLahasse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLahasse&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
