@@ -47,5 +47,5 @@ Um ecossistema completo de e-commerce para hamburgueria.
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividlahasse/)
 
