@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack em Formação | Estudante de Ciência da Computação
 
-Estou em transição de carreira, migrando da área de **Segurança Eletrônica (CFTV, Portaria e Monitoramento)** para o Desenvolvimento de Software. Essa mudança é movida pela paixão em construir soluções escaláveis e pela busca constante por desafios técnicos no ecossistema JavaScript.
+Estou em transição de carreira, migrando da área de **Suporte e Infraestrutura de TI** e **Gestão Operacional** para o Desenvolvimento de Software. Essa mudança é movida pela paixão em construir soluções escaláveis e pela busca constante por desafios técnicos no ecossistema JavaScript.
 
 ---
 
@@ -32,15 +32,15 @@ Estou em transição de carreira, migrando da área de **Segurança Eletrônica 
 Um ecossistema completo de e-commerce para hamburgueria.
 - **Back-end:** Construído com Node.js e PostgreSQL.
 - **Front-end:** Interface moderna utilizando React e Styled Components.
-- **Status:** Implementando lógica de carrinho e integração de pagamentos.
+- **Status:** Implementando lógica de carrinho e integração de pagamentos com Stripe.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividSantosLahasse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividSantosLahasse&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
